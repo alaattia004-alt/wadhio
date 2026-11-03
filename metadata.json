@@ -1,0 +1,6 @@
+{
+  "name": "بينة | منصة تيسير الخطاب والقانون الذكية",
+  "description": "منصة ذكية لتقريب النصوص القانونية، شرح القوانين بمستويات متعددة، تحليل العقود والوثائق، والاستشارات الأولية بالعربية والفرنسية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
